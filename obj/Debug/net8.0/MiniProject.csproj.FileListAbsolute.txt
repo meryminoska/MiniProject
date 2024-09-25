@@ -1,0 +1,14 @@
+/Users/merykarunanamage/MiniProject/bin/Debug/net8.0/MiniProject
+/Users/merykarunanamage/MiniProject/bin/Debug/net8.0/MiniProject.deps.json
+/Users/merykarunanamage/MiniProject/bin/Debug/net8.0/MiniProject.runtimeconfig.json
+/Users/merykarunanamage/MiniProject/bin/Debug/net8.0/MiniProject.dll
+/Users/merykarunanamage/MiniProject/bin/Debug/net8.0/MiniProject.pdb
+/Users/merykarunanamage/MiniProject/obj/Debug/net8.0/MiniProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merykarunanamage/MiniProject/obj/Debug/net8.0/MiniProject.AssemblyInfoInputs.cache
+/Users/merykarunanamage/MiniProject/obj/Debug/net8.0/MiniProject.AssemblyInfo.cs
+/Users/merykarunanamage/MiniProject/obj/Debug/net8.0/MiniProject.csproj.CoreCompileInputs.cache
+/Users/merykarunanamage/MiniProject/obj/Debug/net8.0/MiniProject.dll
+/Users/merykarunanamage/MiniProject/obj/Debug/net8.0/refint/MiniProject.dll
+/Users/merykarunanamage/MiniProject/obj/Debug/net8.0/MiniProject.pdb
+/Users/merykarunanamage/MiniProject/obj/Debug/net8.0/MiniProject.genruntimeconfig.cache
+/Users/merykarunanamage/MiniProject/obj/Debug/net8.0/ref/MiniProject.dll
